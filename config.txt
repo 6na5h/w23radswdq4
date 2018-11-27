@@ -1,4 +1,4 @@
-﻿token=NTE2OTU4OTM2NjQxODMwOTM1.Dt7Pug.DOLxAJHeFaTxmSAdb18dxlYjems
+token=NTE2OTU4OTM2NjQxODMwOTM1.Dt7Pug.DOLxAJHeFaTxmSAdb18dxlYjems
 owner=435239093182398480
 prefix= 4
 game= 4play
